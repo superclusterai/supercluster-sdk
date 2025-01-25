@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/76c97099-bb62-475d-9e54-409ebab7048e)
+[![image](https://github.com/user-attachments/assets/76c97099-bb62-475d-9e54-409ebab7048e)](https://pbs.twimg.com/profile_banners/1861010564673404928/1737728322/1500x500)
 # Supercluster AI  - Powerful and Flexible AI Agent Framework 
 
 Supercluster is a Python-based AI agent framework that enables developers to create, manage, and interact with AI agents through a simple yet powerful API interface.
